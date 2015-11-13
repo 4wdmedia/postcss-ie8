@@ -1,6 +1,6 @@
 # postcss-ie8
 
-[PostCSS] plugin for transforming a stylesheet to an IE8-compatible stylesheet.
+[postcss] plugin for transforming a stylesheet to an IE8-compatible stylesheet.
 
 ## Installation
 
