@@ -1,0 +1,22 @@
+{
+  "name": "postcss-ie8",
+  "version": "1.0.0",
+  "description": "Strips properties and selectors that are unsupported by IE8",
+  "license": "MIT",
+  "repository": "4wdmedia/postcss-ie8",
+  "author": {
+    "name": "Robert Vock",
+    "email": "",
+    "url": "https://github.com/rvock"
+  },
+  "keywords": [
+    "postcss",
+    "postcss-plugin"
+  ],
+  "dependencies": {
+    "autoprefixer": "^6.0.0",
+    "postcss": "^5.0.0",
+    "lodash": "^3.0.1",
+    "css-mediaquery": "^0.1.2"
+  }
+}
