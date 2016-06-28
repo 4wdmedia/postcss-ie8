@@ -39,6 +39,9 @@ function prefix(prop) {
 	var separator;
 	if (prop[0] === '-') {
 		separator = prop.indexOf('-', 1) + 1;
+		if (prop.slice(0, separator).indexOf(' ') > -1) {
+			return '';
+		}
 		return prop.slice(0, separator);
 	} else {
 		return '';
