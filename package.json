@@ -1,6 +1,6 @@
 {
   "name": "postcss-ie8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Strips properties and selectors that are unsupported by IE8",
   "license": "MIT",
   "repository": "4wdmedia/postcss-ie8",
